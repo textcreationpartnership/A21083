@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter vvritten to the right vvorshipfull the Gouernours and assistants of the East Indian marchants in London containing the estate of the East Indian fleete, with the names of the chiefe men of note dead in the voyage.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21083</idno>
+            <idno type="STC">STC 7448</idno>
+            <idno type="STC">ESTC S120985</idno>
+            <idno type="EEBO-CITATION">99856176</idno>
+            <idno type="PROQUEST">99856176</idno>
+            <idno type="VID">21703</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21083)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 21703)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1022:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter vvritten to the right vvorshipfull the Gouernours and assistants of the East Indian marchants in London containing the estate of the East Indian fleete, with the names of the chiefe men of note dead in the voyage.</title>
+               </titleStmt>
+               <extent>[4], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by R. Read] for Thomas Thorppe, and are to be sould by William Aspley,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1603.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company. --  Early works to 1800.</term>
+               <term>Voyages and travels --  Early works to 1800.</term>
+               <term>Ascension (Ship) --  Early works to 1800.</term>
+               <term>East Indies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:21703:1"/>
+            <figure>
+               <figDesc>depiction of ship</figDesc>
+            </figure>
+            <pb facs="tcp:21703:1" rendition="simple:additions"/>
+            <p>A LETTER VVRITTEN TO THE RIGHT <hi>WOR<g ref="char:EOLhyphen"/>SHIPFVLL THE</hi> GO<g ref="char:EOLhyphen"/>VERNOVRS AND ASSISTANTS OF THE EAST INDIAN <hi>MAR<g ref="char:EOLhyphen"/>CHANTS IN LONDON: CONTAINING</hi> THE ESTATE OF THE EAST INDIAN: <hi>FLEETE, WITH THE NAMES OF</hi> THE CHIEFE MEN OF NOTE <hi>DEAD IN THE VOYAGE</hi>
+            </p>
+            <p>AT LONDON Imprinted for <hi>Thomas Thorppe,</hi> and are to be ſould by <hi>William Aſpley.</hi>
+            </p>
+            <p>1603.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:21703:2"/>
+            <pb facs="tcp:21703:2"/>
+            <head>A LETTER <hi>VVRIT<g ref="char:EOLhyphen"/>TEN TO THE RIGHT</hi> worſhipfull the Gouernours and <hi>Aſsistants of the Eaſt Indian Mar<g ref="char:EOLhyphen"/>chants</hi> in London; containing the eſtate <hi>of the Eaſt Indian Fleete, with the names</hi> of the chiefe men of note dead <hi>in the Voyage.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">R</seg>Ight Worſhipfull my dutie re<g ref="char:EOLhyphen"/>membred. It may pleaſe you to vnderſtand, that we wayed An<g ref="char:EOLhyphen"/>chor the 20. of Aprill 1601. and ſet ſaile out of <hi>Torbaye</hi> by <hi>Dart<g ref="char:EOLhyphen"/>mouthe.</hi>
+            </p>
+            <p>The 21. of Iune following, being in the heigth of three degrees to the Northwards of the line, wee tooke a ſhip of <hi>Vianna</hi> bound for <hi>Braſill,</hi> of the burthen of 130. tunne, her lading was Wine, Oyle and Meale, which hath ſtood vs in
+<pb n="2" facs="tcp:21703:3"/>great ſteede in this our voyage: fiue or ſixe dayes after we turned her off after we had pillaged her as we thought good.</p>
+            <p>The 20. day of Iuly we turned away the <hi>Guifte</hi> beeing in the height of 19. degrees to the South<g ref="char:EOLhyphen"/>ward of the Line, the 24. day we came vnder the Tropicke of <hi>Capricorne.</hi>
+            </p>
+            <p>The 19. day of September we came to Anchor at <hi>Saldaiua,</hi> beeing in very great diſtreſſe by reaſon of the ſcuruy diſeaſe then raging among vs. The <hi>Aſcention</hi> and <hi>Suſans</hi> company were ſcarce able to let fall their Anchors without the helpe of other ſhips, there we ſtaied and refreſhed our men with freſh victuals, as Beefe and Mutton in great aboun<g ref="char:EOLhyphen"/>dance which coſt vs little or nothing, there we ſtai<g ref="char:EOLhyphen"/>ed about ſeauen weekes, and had ſtaied there lon<g ref="char:EOLhyphen"/>ger if the inhabitantes had continued to bring vs freſh victuals, ſo we departed thence the 9. of Oc<g ref="char:EOLhyphen"/>tober.</p>
+            <p>The 29. of December we came to Anchor in the baye of <hi>Antoga,</hi> here we trucked with the inha<g ref="char:EOLhyphen"/>bitants for Rice, Lemmans and Plantaines &amp; ſuch like fruite, we ſette vp one of our Pinnaces: here al<g ref="char:EOLhyphen"/>ſo we loſt diuerſe of our men which dyed of the
+<pb n="3" facs="tcp:21703:3"/>Filx by reaſon of the great heate, and feeding of the Plantaines and Lemmans which they did de<g ref="char:EOLhyphen"/>uoure immoderately.</p>
+            <p>This Baye is the Inland of <hi>Saint Laurence</hi> and ſtandeth in the height of ſixeteene degrees.</p>
+            <p>The 4. day of March we departed thence in the euening, and the firſt day of Iune 1602. we diſcried the land <hi>Sumatra.</hi>
+            </p>
+            <p>The 3. day we Anchored in the Roade of <hi>A<g ref="char:EOLhyphen"/>chin</hi> in ſeauen faddome water. To make any large diſcourſe of matters which paſſed whilſt wee lay in the Roade of <hi>Achin</hi> I omitte, becauſe time will not permitte: But in few wordes you ſhall vnderſtand, that heere wee found little Pepper, not ſufficient to loade the <hi>Aſcention,</hi> hauing in her little aboue eight ſcore tunnes, we could not I thinke in all the Eaſt <hi>Indiaes</hi> haue come to a worſer place for loading.</p>
+            <p>The 30. of Iuly the Generall ſent away the <hi>Su<g ref="char:EOLhyphen"/>ſan</hi> to <hi>Priaman</hi> to ſeeke her loading, being an Iland which lieth towardes the ſouthwardes eight ſcore leagues, a little diſtance from <hi>Sumatra,</hi> and about 20. dayes before our comming to <hi>Achin,</hi> the little
+<pb n="4" facs="tcp:21703:4"/>Pinnace came from her and certified our generall ſhe was almoſt loaden, that we hope ſhe will not be long after vs.</p>
+            <p>The 11. of September we departed out of the roade of <hi>Achin</hi> for the ſtraights of <hi>Mallaca</hi> to ſeeke purchaſe: The Red <hi>Dragon, the Aſsention,</hi> the <hi>Hector</hi> and a Flemming which came into the Roade oſ <hi>A<g ref="char:EOLhyphen"/>chin</hi> but 4. dayes before.</p>
+            <p>The 3. of October beeing Sunday about fiue of the clocke in the afternoone we ſaw a ſaile and gaue her chaſe, about nine of the clocke wee fetched her vp and hayled her, and found her to be a Ship come from <hi>Goa</hi> and bound for <hi>Mallaca</hi> laden with <hi>Portingals</hi> goodes, as <hi>Pintados, Calicottes</hi> and other ſtuffes great ſtore, a great part of her loading was Rice and victualls, and in her about ſeauen or eight hundred perſons men women and children, we had out of her <hi>958.</hi> Fardils: and diuers cheſts with other things as <hi>Caniſtees:</hi> wee were forced from her by force of weather beeing put from our Anchors.</p>
+            <p>The 25. day we Anchored in the roade of <hi>A<g ref="char:EOLhyphen"/>chin.</hi>
+            </p>
+            <p>The 11. day of Nouember being Thurſeday we waied our Anchors and ſet ſaile from <hi>Achin, viz.</hi>
+               <pb n="5" facs="tcp:21703:4"/>the <hi>Dragon,</hi> the <hi>Hector,</hi> and a little Pinnace, and the <hi>Aſcention,</hi> they did keepe vs company till the next day being bound for <hi>Priaman</hi> vnto the <hi>Suſan,</hi> and ſo from thence they were purpoſed to goe for <hi>Ban<g ref="char:EOLhyphen"/>tam,</hi> God grant they may get thither in ſafety, for then it is not to be doubted they ſhall get their full lading of Pepper according to their deſires, as ſhall appeare vnto you hereafter: So wee leauing them the day aboue ſaid, departed for <hi>England,</hi> to the great reioycing of vs all that were to goe home into out Country after ſo tedious a pilgrimage.</p>
+            <p>The 3. day of Februarie about 10. of the clocke afore noone, wee had ſight of the <hi>Cape Bona eſper<g ref="char:EOLhyphen"/>anſe</hi> a Frenchman which we left in the roade of <hi>A<g ref="char:EOLhyphen"/>chin</hi> being in our company, which came out a day after vs, who together had determined to goe for <hi>Saldauia</hi> if two Flemmings who came then into our company had not altered our determination, for af<g ref="char:EOLhyphen"/>ter wee had hailed them, wee vnderſtood they were vnwilling to put in for that place, but to goe for <hi>Saint Hellena,</hi> ſo we ſtoode along with them, and altogether ariued at <hi>Saint Hellena.</hi>
+            </p>
+            <p>The 21. day of the ſame month, the <hi>Aſcenti<g ref="char:EOLhyphen"/>on</hi> and the Frenchman called the <hi>Creſet</hi> of <hi>Saint Mallowes,</hi> the two Dutchmen, the Admirall was called the Amſterdam about the burthen of
+<pb n="6" facs="tcp:21703:5"/>300. <hi>Laſt,</hi> and the other called the <hi>Tergow,</hi> of the bigneſſe of the <hi>Aſcention:</hi> which ſhippe hath beene almoſt thirty three monethes from home, and as they tould vs laden at <hi>Petauia,</hi> moſt of her lading beeing Pepper, and in their way homeward they touched at <hi>Banton,</hi> the people of <hi>Banton</hi> were glad when they came thither becauſe they thought they woulde haue laden Pepper, hauing great ſtore lying vpon their hands and being chea<g ref="char:EOLhyphen"/>per then ours is.</p>
+            <p>The generall of the Flemmings whoſe name is <hi>Iacob Cornelius Van Neskes</hi> toulde vs that there is Pepper enough to lade foure or fiue Ships, ſo that if the <hi>Dragon</hi> came there in any time con<g ref="char:EOLhyphen"/>uenient it is not to bee doubted but they are vppon the waye homewardes full laden with Pepper, &amp;c.</p>
+            <p>The Frenchmen haue determined ſuddaine<g ref="char:EOLhyphen"/>ly to leaue our companye to depart homewardes, which hath made mee to trouble you with this diſcourſe, although not ſo large as willingly I would it were, for that time will not per<g ref="char:EOLhyphen"/>mitte mee to doe otherwiſe, hoping that it will not bee any thing diſpleaſing vnto you, hauing as I thinke not before this heard any cer<g ref="char:EOLhyphen"/>tainety
+<pb n="7" facs="tcp:21703:5"/>of vs ſince our departure out of England beeing verie willing it ſhould come to your hands before you heare of vs any more, the better to prepare your mindes for the ſetting foorth of a new voyage. Wee ſhall bee readye to de<g ref="char:EOLhyphen"/>parte from hence the fifteenth day of this moneth of March, GOD ſend vs home in ſafetye.</p>
+            <pb n="8" facs="tcp:21703:6"/>
+            <div type="list_of_casualties">
+               <head>
+                  <hi>The names of the chiefe men</hi> of note which are dead in the Voyage.</head>
+               <p>THere was 182. men which were dead out of our Fleete before we parted from our Gene<g ref="char:EOLhyphen"/>rall, three of our men dead ſince. Men of note which are dead, are theſe: <hi>William Leake</hi> Purſer of this Shippe, <hi>George Parſons</hi> Purſer of the <hi>Hector,</hi> Maiſter <hi>Caſell,</hi> Maiſter <hi>Horton</hi> who married Alder<g ref="char:EOLhyphen"/>man <hi>Wattes</hi> his daughter, which foure dyed before we came to <hi>Saldauia.</hi>
+               </p>
+               <p>
+                  <hi>Brad<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ncke</hi> Maiſter of the <hi>Dragon,</hi> Maiſter <hi>Pullion</hi> our Preacher, Maiſter <hi>Winter</hi> Maiſters mate, Maiſter <hi>Napper</hi> Maiſter of the <hi>Hector,</hi> theſe foure dyed at <hi>Antogill.</hi>
+               </p>
+               <p>Maiſter <hi>Brand</hi> Captaine of the <hi>Aſcention,</hi> go<g ref="char:EOLhyphen"/>ing a ſhore in his Boate to the buriall of Maiſter <hi>Winter,</hi> very vnfortunately by a ſhotte that was made by the Gunner of the <hi>Admirall,</hi> was ſlaine, with another called <hi>Iohn Parker,</hi> who ſteered the Boate.</p>
+               <p>The 27. of Februarie being Satterday, Maiſter <hi>Haward</hi> Captaine of the <hi>Suſan</hi> dyed in the Roade of <hi>Achin,</hi> Maiſter <hi>Stradling,</hi> Maiſter <hi>Winchcombe,
+<pb n="9" facs="tcp:21703:6"/>Iohn Iland, Iames Chamley,</hi> dyed in the Roade of <hi>Achin,</hi> Maiſter <hi>Robert Pope</hi> in the ſtraights of <hi>Mallaca,</hi> Maiſter <hi>Thomas Saltin</hi> in the Roade of <hi>Achin.</hi>
+               </p>
+            </div>
+            <div type="conclusion">
+               <p>Thus being inforced to cut ſhort, I ceaſe for this preſent, praying for your proſperities in all your intended enterpriſes, according to your diſires.</p>
+            </div>
+            <closer>
+               <salute>Fare you well,</salute>
+               <dateline>from aboard the <hi>Aſcention</hi> at S. <hi>Hellena,</hi> 
+                  <date>the 9. of <hi>March,</hi> 1602.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
